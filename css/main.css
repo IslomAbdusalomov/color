@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 625px;
+    background: linear-gradient(50deg, rgb(0, 128, 115), rgb(0, 128, 6));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    width: 40%;
+    height: 450px;
+    background-color: #fff;
+}
+.box-1{
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+.box-1 div h1{
+    font-size: 25px;
+}
+.box-1 div p{
+    padding-top: 20px;
+    font-size: 18px;
+}
+.box-2{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.int{
+    width: 80%;
+    font-size: 17px;
+    background-color: lavender;
+    border: #fff;
+    padding-left: 15px;
+}
+
+.box-3{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.box-3 input{
+    width: 80%;
+    font-size: 17px;
+    background-color: lavender;
+    border: #fff;
+    padding-left: 15px;
+}
+.box-4{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.box-4 input{
+    width: 80%;
+    font-size: 17px;
+    background-color: aliceblue;
+    border: #fff;
+    background: linear-gradient(50deg, rgb(0, 128, 115), rgb(0, 128, 6));
+    color: #fff;
+}
+.box-5{
+    width: 100%;
+    height: 30px;
+    background-color: #fff;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.box-5 label{
+    font-size: 15px;
+    color: rgb(211, 211, 211);
+}
+.box-5 a{
+    margin-left: 5px;
+    font-size: 15px;
+}
